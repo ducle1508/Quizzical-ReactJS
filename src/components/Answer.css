@@ -1,0 +1,13 @@
+
+.answer-button {
+    min-height: 25px;
+    min-width: 80px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: #293264;
+    border-radius: 10px;
+    line-height: 25px;
+    padding: 0 10px;
+    cursor: pointer;
+}

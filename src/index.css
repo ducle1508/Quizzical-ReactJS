@@ -1,0 +1,25 @@
+html {
+  font-family: 'Roboto', sans-serif;
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  height: 100vh;
+
+  /* color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87); */
+  background-color: #DAE1FE;
+
+  /* font-synthesis: none; */
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
